@@ -117,5 +117,27 @@
         <mj-button>J'en profite</mj-button>
       </mj-column>
     </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image src="./images/WhiteNetgearBusiness.png"/>
+        <mj-text>Pour alimenter vos périphériques via Ethernet</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image ./images/GS305P.jpg="./images/GS305P.jpg"/>
+        <mj-text>Switch Non Manageable</mj-text>
+        <mj-text>5 Ports Gigabit PoE+ (GS305P)</mj-text>
+        <mj-text>64.99€ 48.99€</mj-text>
+        <mj-button>J'en profite</mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-image ./images/GS305.jpg="./images/GS305.jpg"/>
+        <mj-text>Switch Non Manageable</mj-text>
+        <mj-text>5 Ports Gigabit (GS305)</mj-text>
+        <mj-text>19.99€ 16.99€</mj-text>
+        <mj-button>J'en profite</mj-button>
+      </mj-column>
+    </mj-section>
   </mj-body>
 </mjml>
