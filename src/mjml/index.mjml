@@ -85,5 +85,37 @@
         <mj-button>J'en profite</mj-button>
       </mj-column>
     </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image src="./images/WhiteNetgearBusiness.png"/>
+        <mj-text>Pour étendre votre réseau à distance du routeur depuis n'importe quel espace.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image src="./images/WAX202.jpg"/>
+        <mj-text>Point d'accès WiFi 6</mj-text>
+        <mj-text>Dual Band</mj-text>
+        <mj-text>AX1800 (WAX202)</mj-text>
+        <mj-text>99.99€ 84.99€</mj-text>
+        <mj-button>J'en profite</mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-image src="./images/WAX214.jpg"/>
+        <mj-text>Point d'accès WiFi 6</mj-text>
+        <mj-text>Dual Band</mj-text>
+        <mj-text>AX1800 (WAX214)</mj-text>
+        <mj-text>119.99€ 101.99€</mj-text>
+        <mj-button>J'en profite</mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-image src="./images/WAX204.jpg"/>
+        <mj-text>Point d'accès WiFi 6</mj-text>
+        <mj-text>Dual Band</mj-text>
+        <mj-text>AX1800 (WAX204)</mj-text>
+        <mj-text>129.99€ 97.99€</mj-text>
+        <mj-button>J'en profite</mj-button>
+      </mj-column>
+    </mj-section>
   </mj-body>
 </mjml>
