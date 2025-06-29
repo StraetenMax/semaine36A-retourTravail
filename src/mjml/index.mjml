@@ -1,0 +1,49 @@
+
+<mjml>
+  <mj-head>
+    <mj-title>Des prix promos pour célébrer le retour au travail</mj-title>
+    <mj-font name="Source Sans 3" href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&amp;display=swap"></mj-font>
+    <mj-raw>
+      <meta charset="UTF-8">
+      <meta name='color-scheme' content='light'/>
+      <meta name='supported-color-schemes' content='light'/>
+      <meta name="format-detection" content="telephone=no"/>
+      <meta name="format-detection" content="date=no"/>
+      <meta name="format-detection" content="address=no"/>
+      <meta name="format-detection" content="email=no"/>
+    </mj-raw>
+    <mj-attributes>
+      <mj-all font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans serif"/>
+      <mj-class name="T32-300" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="32px" line-height="50px" font-weight="300"/>
+      <mj-class name="T30-300" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="30px" line-height="50px" font-weight="300"/>
+      <mj-class name="T30-500" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="30px" line-height="40px" font-weight="500"/>
+      <mj-class name="T26-500" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="26px" line-height="35px" font-weight="500"/>
+      <mj-class name="T17-500" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="17px" line-height="25px" font-weight="500"/>
+      <mj-class name="T12-400" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="12px" line-height="13px" font-weight="400"/>
+      <mj-class name="T14-400" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="14px" line-height="18px" font-weight="400"/>
+      <mj-class name="T11-400" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="11px" line-height="14px" font-weight="400"/>
+      <mj-button padding="0" inner-padding="10px 10px" width="163px" border-radius="20px" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="20px" font-weight="700" text-transform="uppercase"></mj-button>
+      <mj-class name="cT1" color="#2c262d"/>
+      <mj-class name="bgT1" background-color="#2c262d"></mj-class>
+      <mj-class name="cT0" color="#000000"/>
+      <mj-class name="bg0" background-color="#000000"/>
+      <mj-class name="cTW" color="#ffffff"/>
+      <mj-class name="bgW" background-color="#ffffff"/>
+      <mj-class name="cB" color="#00a3de"/>
+      <mj-class name="bgB" background-color="#00a3de"/>
+    </mj-attributes>
+    <mj-breakpoint width="480px"></mj-breakpoint>
+  </mj-head>
+  <mj-body background-color="#f1f0f0" width="700px">
+    <mj-section padding="24px 30px" mj-class="bgT1">
+      <mj-group>
+        <mj-column vertical-align="middle">
+          <mj-image align="left" padding="0" width="145px" src="./images/logoNetgearWhite.png" alt="logo Netgear store en blanc"/>
+        </mj-column>
+        <mj-column vertical-align="middle">
+          <mj-text align="right" padding="0" mj-class="T9-400" color="#ababab" text-transform="uppercase" letter-spacing="2px"><a style="text-decoration:none;color:#ababab;" href="#">version en ligne&nbsp;&#x23f5;</a></mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+  </mj-body>
+</mjml>
