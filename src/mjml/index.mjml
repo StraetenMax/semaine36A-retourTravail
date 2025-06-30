@@ -38,119 +38,122 @@
     <mj-section padding="24px 30px" mj-class="bgT1">
       <mj-group>
         <mj-column vertical-align="middle">
-          <mj-image align="left" padding="0" width="145px" src="./images/logoNetgearWhite.png" alt="logo Netgear store en blanc"/>
+          <mj-image align="left" padding="0" width="145px" src="./images/whiteNetgearStore.png" alt="logo Netgear store en blanc"/>
         </mj-column>
         <mj-column vertical-align="middle">
           <mj-text align="right" padding="0" mj-class="T9-400" color="#ababab" text-transform="uppercase" letter-spacing="2px"><a style="text-decoration:none;color:#ababab;" href="#">version en ligne&nbsp;&#x23f5;</a></mj-text>
         </mj-column>
       </mj-group>
     </mj-section>
-    <mj-section>
+    <mj-section mj-class="bgT1">
       <mj-column>
-        <mj-text>Des prix promos pour célébrer le retour au travail</mj-text>
+        <mj-text padding="0" align="center" mj-class="cTW">Des prix promos pour célébrer le retour au travail</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-image src="./images/illustration.jpg"/>
+        <mj-image padding="0" src="./images/illustration.jpg"/>
       </mj-column>
     </mj-section>
-    <mj-section>
+    <mj-section mj-class="bgW">
       <mj-column>
-        <mj-text>Restez productif avec Netgear</mj-text>
-        <mj-text>Nos produits garantissent des connexions à des vitesses hauts débits et sécurisées qui vous permettent de rester productif dans toutes les situations.</mj-text>
-        <mj-text>Que vous soyez en conférence téléphonique, en train d'envoyer des e-mails ou de télécharger des fichiers volumineux, vous restez connecté à un WiFi stable et performant.</mj-text>
-        <mj-text>Et pour célébrer le retour au travail, nous vous proposons des prix exceptionnels sur une sélection de produits.</mj-text>
+        <mj-text padding="0" align="center">Restez productif avec Netgear</mj-text>
+        <mj-text padding="0" align="center">Nos produits garantissent des connexions à des vitesses hauts débits et sécurisées qui vous permettent de rester productif dans toutes les situations.</mj-text>
+        <mj-text padding="0" align="center">Que vous soyez en conférence téléphonique, en train d'envoyer des e-mails ou de télécharger des fichiers volumineux, vous restez connecté à un WiFi stable et performant.</mj-text>
+        <mj-text padding="0" align="center">Et pour célébrer le retour au travail, nous vous proposons des prix exceptionnels sur une sélection de produits.</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section>
+    <mj-section mj-class="bgB">
       <mj-column>
-        <mj-image src="./images/orbiPro.png"/>
-        <mj-text>Reprenez votre activité professionnelle avec un WIFI ultra-rapide pour votre TPE ou télétravail.</mj-text>
+        <mj-image padding="0" src="./images/orbiPro.png"/>
+        <mj-text padding="0" align="center" mj-class="cTW">Reprenez votre activité professionnelle avec un WIFI ultra-rapide pour votre TPE ou télétravail.</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section>
+    <mj-section mj-class="bgW">
       <mj-column>
-        <mj-image src="./images/SXK30.jpg"/>
-        <mj-text>Système Mesh Orbi Pro WiFi 6</mj-text>
-        <mj-text>AX1800 (SXK30) Jusqu'à 250m2</mj-text>
-        <mj-text>299.99€ 224.99€</mj-text>
+        <mj-image padding="0" align="center" src="./images/SXK30.jpg"/>
+        <mj-text padding="0" align="center">Système Mesh Orbi Pro WiFi 6</mj-text>
+        <mj-text padding="0" align="center">AX1800 (SXK30) Jusqu'à 250m2</mj-text>
+        <mj-text padding="0" align="center">299.99€ 224.99€</mj-text>
         <mj-button>J'en profite</mj-button>
       </mj-column>
       <mj-column>
-        <mj-image src="./images/SXK30B3.jpg"/>
-        <mj-text>Système Mesh Orbi Pro WiFi 6</mj-text>
-        <mj-text>AX1800 (SXK30B3) Jusqu'à 35m2</mj-text>
-        <mj-text>399.99€ 299.99€</mj-text>
+        <mj-image padding="0" align="center" src="./images/SXK30B3.jpg"/>
+        <mj-text padding="0" align="center">Système Mesh Orbi Pro WiFi 6</mj-text>
+        <mj-text padding="0" align="center">AX1800 (SXK30B3) Jusqu'à 35m2</mj-text>
+        <mj-text padding="0" align="center">399.99€ 299.99€</mj-text>
         <mj-button>J'en profite</mj-button>
       </mj-column>
     </mj-section>
-    <mj-section>
+    <mj-section mj-class="bgT1">
       <mj-column>
-        <mj-image src="./images/WhiteNetgearBusiness.png"/>
-        <mj-text>Pour étendre votre réseau à distance du routeur depuis n'importe quel espace.</mj-text>
+        <mj-image padding="0" src="./images/WhiteNetgearBusiness.png"/>
+        <mj-text padding="0" align="center" mj-class="cTW">Pour étendre votre réseau à distance du routeur depuis n'importe quel espace.</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section>
+    <mj-section mj-class="bgW">
       <mj-column>
-        <mj-image src="./images/WAX202.jpg"/>
-        <mj-text>Point d'accès WiFi 6</mj-text>
-        <mj-text>Dual Band</mj-text>
-        <mj-text>AX1800 (WAX202)</mj-text>
-        <mj-text>99.99€ 84.99€</mj-text>
+        <mj-image padding="0" align="center" src="./images/WAX202.jpg"/>
+        <mj-text padding="0" align="center">Point d'accès WiFi 6</mj-text>
+        <mj-text padding="0" align="center">Dual Band</mj-text>
+        <mj-text padding="0" align="center">AX1800 (WAX202)</mj-text>
+        <mj-text padding="0" align="center">99.99€ 84.99€</mj-text>
         <mj-button>J'en profite</mj-button>
       </mj-column>
       <mj-column>
-        <mj-image src="./images/WAX214.jpg"/>
-        <mj-text>Point d'accès WiFi 6</mj-text>
-        <mj-text>Dual Band</mj-text>
-        <mj-text>AX1800 (WAX214)</mj-text>
-        <mj-text>119.99€ 101.99€</mj-text>
+        <mj-image padding="0" align="center" src="./images/WAX214.jpg"/>
+        <mj-text padding="0" align="center">Point d'accès WiFi 6</mj-text>
+        <mj-text padding="0" align="center">Dual Band</mj-text>
+        <mj-text padding="0" align="center">AX1800 (WAX214)</mj-text>
+        <mj-text padding="0" align="center">119.99€ 101.99€</mj-text>
         <mj-button>J'en profite</mj-button>
       </mj-column>
       <mj-column>
-        <mj-image src="./images/WAX204.jpg"/>
-        <mj-text>Point d'accès WiFi 6</mj-text>
-        <mj-text>Dual Band</mj-text>
-        <mj-text>AX1800 (WAX204)</mj-text>
-        <mj-text>129.99€ 97.99€</mj-text>
+        <mj-image padding="0" align="center" src="./images/WAX204.jpg"/>
+        <mj-text padding="0" align="center">Point d'accès WiFi 6</mj-text>
+        <mj-text padding="0" align="center">Dual Band</mj-text>
+        <mj-text padding="0" align="center">AX1800 (WAX204)</mj-text>
+        <mj-text padding="0" align="center">129.99€ 97.99€</mj-text>
         <mj-button>J'en profite</mj-button>
       </mj-column>
     </mj-section>
-    <mj-section>
+    <mj-section mj-class="bgT1">
       <mj-column>
         <mj-image src="./images/WhiteNetgearBusiness.png" alt=""/>
-        <mj-text>Pour alimenter vos périphériques via Ethernet</mj-text>
+        <mj-text padding="0" align="center" mj-class="cTW">Pour alimenter vos périphériques via Ethernet</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section>
+    <mj-section mj-class="bgW">
       <mj-column>
-        <mj-image src="./images/GS305P.jpg" alt=""/>
-        <mj-text>Switch Non Manageable</mj-text>
-        <mj-text>5 Ports Gigabit PoE+ (GS305P)</mj-text>
-        <mj-text>64.99€ 48.99€</mj-text>
+        <mj-image padding="0" align="center" src="./images/GS305SP.jpg" alt=""/>
+        <mj-text padding="0" align="center">Switch Non Manageable</mj-text>
+        <mj-text padding="0" align="center">5 Ports Gigabit PoE+ (GS305P)</mj-text>
+        <mj-text padding="0" align="center">64.99€ 48.99€</mj-text>
         <mj-button>J'en profite</mj-button>
       </mj-column>
       <mj-column>
-        <mj-image src="./images/GS305.jpg" alt=""/>
-        <mj-text>Switch Non Manageable</mj-text>
-        <mj-text>5 Ports Gigabit (GS305)</mj-text>
-        <mj-text>19.99€ 16.99€</mj-text>
+        <mj-image padding="0" align="center" src="./images/GS305.jpg" alt=""/>
+        <mj-text padding="0" align="center">Switch Non Manageable</mj-text>
+        <mj-text padding="0" align="center">5 Ports Gigabit (GS305)</mj-text>
+        <mj-text padding="0" align="center">19.99€ 16.99€</mj-text>
         <mj-button>J'en profite</mj-button>
       </mj-column>
     </mj-section>
-    <mj-section>
+    <mj-section mj-class="bgT1">
       <mj-column>
-        <mj-text>... et bien plus encore sur le store NETGEAR</mj-text>
-        <mj-button>Découvrir</mj-button>
+        <mj-text padding="0" align="center" mj-class="cTW">... et bien plus encore sur le store NETGEAR</mj-text>
+        <mj-button mj-class="bgW cT1">Découvrir</mj-button>
       </mj-column>
     </mj-section>
-    <mj-section>
+    <mj-section mj-class="bgW">
       <mj-column>
-        <mj-image src="./images/blackNetgear.png"/>
+        <mj-image padding="0" src="./images/blackNetgear.png"/>
       </mj-column>
       <mj-column>
-        <mj-social>
+        <mj-spacer height="20px"></mj-spacer>
+      </mj-column>
+      <mj-column>
+        <mj-social padding="0" mode="horizontal">
           <mj-social-element src="./images/facebookIcon.png" alt="" href="#"></mj-social-element>
           <mj-social-element src="./images/twitterIcon.png" alt="" href="#"></mj-social-element>
           <mj-social-element src="./images/instagramIcon.png" alt="" href="#"></mj-social-element>
@@ -158,15 +161,15 @@
         </mj-social>
       </mj-column>
     </mj-section>
-    <mj-section>
+    <mj-section mj-class="bgW">
       <mj-column>
-        <mj-text>Vous recevez cet e-mail car vous avez choisi de recevoir des communications NETGEAR. Si vous ne souhaitez plus recevoir ces communications, vous pouvez vous désabonner</mj-text>
-        <mj-text>Mettre à jour mon profil</mj-text>
-        <mj-text>Cet emailing a été envoyé par : %%Member_Busname%%</mj-text>
-        <mj-text>%%Member_Addr%% %%Member_City%%, %%Member_State%%, %%Member_PostalCode%%, %%Member_Country%%</mj-text>
-        <mj-text>NETGEAR France SAS, 2 rue de Marly, 78150 Le Chesnay</mj-text>
-        <mj-text>Pour recevoir nos e-mails, ajoutez l'adresse emarketing@e.netgear.com à votre carnet d'adresses.</mj-text>
-        <mj-text>Orbi et le logo NETGEAR sont des marques commerciales et/ou des marques déposées de NETGEAR, Inc. et/ou de ses filiales aux Etats-Unis et/ou dans d'autres pays. Les autres marques sont ici mentionnées à des fins d'identification uniquement et peuvent être des marques commerciales appartenant à leurs détenteurs respectifs. Les informations sont sujettes à changement sans préavis. ©2021 NETGEAR. Tous droits réservés. </mj-text>
+        <mj-text padding="0" align="left">Vous recevez cet e-mail car vous avez choisi de recevoir des communications NETGEAR. Si vous ne souhaitez plus recevoir ces communications, vous pouvez vous désabonner</mj-text>
+        <mj-text padding="0" align="left">Mettre à jour mon profil</mj-text>
+        <mj-text padding="0" align="left">Cet emailing a été envoyé par : %%Member_Busname%%</mj-text>
+        <mj-text padding="0" align="left">%%Member_Addr%% %%Member_City%%, %%Member_State%%, %%Member_PostalCode%%, %%Member_Country%%</mj-text>
+        <mj-text padding="0" align="left">NETGEAR France SAS, 2 rue de Marly, 78150 Le Chesnay</mj-text>
+        <mj-text padding="0" align="left">Pour recevoir nos e-mails, ajoutez l'adresse emarketing@e.netgear.com à votre carnet d'adresses.</mj-text>
+        <mj-text padding="0" align="left">Orbi et le logo NETGEAR sont des marques commerciales et/ou des marques déposées de NETGEAR, Inc. et/ou de ses filiales aux Etats-Unis et/ou dans d'autres pays. Les autres marques sont ici mentionnées à des fins d'identification uniquement et peuvent être des marques commerciales appartenant à leurs détenteurs respectifs. Les informations sont sujettes à changement sans préavis. ©2021 NETGEAR. Tous droits réservés.</mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
