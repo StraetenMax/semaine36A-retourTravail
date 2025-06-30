@@ -20,8 +20,6 @@
       <mj-class name="T26-500" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="26px" line-height="35px" font-weight="500"/>
       <mj-class name="T17-500" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="17px" line-height="25px" font-weight="500"/>
       <mj-class name="T12-400" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="12px" line-height="13px" font-weight="400"/>
-      <mj-class name="T14-400" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="14px" line-height="18px" font-weight="400"/>
-      <mj-class name="T11-400" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="11px" line-height="14px" font-weight="400"/>
       <mj-button padding="0" inner-padding="10px 10px" width="163px" border-radius="20px" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="20px" font-weight="700" text-transform="uppercase"></mj-button>
       <mj-class name="cT1" color="#2c262d"/>
       <mj-class name="bgT1" background-color="#2c262d"></mj-class>
@@ -65,77 +63,77 @@
     </mj-section>
     <mj-section mj-class="bgB">
       <mj-column>
-        <mj-image padding="0" src="./images/orbiPro.png"/>
+        <mj-image padding="0" align="center" width="234px" src="./images/orbiPro.png"/>
         <mj-text padding="0" align="center" mj-class="cTW">Reprenez votre activité professionnelle avec un WIFI ultra-rapide pour votre TPE ou télétravail.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section mj-class="bgW">
       <mj-column>
-        <mj-image padding="0" align="center" src="./images/SXK30.jpg"/>
-        <mj-text padding="0" align="center">Système Mesh Orbi Pro WiFi 6</mj-text>
-        <mj-text padding="0" align="center">AX1800 (SXK30) Jusqu'à 250m2</mj-text>
-        <mj-text padding="0" align="center">299.99€ 224.99€</mj-text>
+        <mj-image padding="0" align="center" width="275px" src="./images/SXK30.jpg"/>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Système Mesh Orbi Pro WiFi 6</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">AX1800 (SXK30) Jusqu'à 250m2</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">299.99€ 224.99€</mj-text>
         <mj-button>J'en profite</mj-button>
       </mj-column>
       <mj-column>
-        <mj-image padding="0" align="center" src="./images/SXK30B3.jpg"/>
-        <mj-text padding="0" align="center">Système Mesh Orbi Pro WiFi 6</mj-text>
-        <mj-text padding="0" align="center">AX1800 (SXK30B3) Jusqu'à 35m2</mj-text>
-        <mj-text padding="0" align="center">399.99€ 299.99€</mj-text>
+        <mj-image padding="0" align="center" width="275px" src="./images/SXK30B3.jpg"/>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Système Mesh Orbi Pro WiFi 6</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">AX1800 (SXK30B3) Jusqu'à 35m2</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">399.99€ 299.99€</mj-text>
         <mj-button>J'en profite</mj-button>
       </mj-column>
     </mj-section>
     <mj-section mj-class="bgT1">
       <mj-column>
-        <mj-image padding="0" src="./images/WhiteNetgearBusiness.png"/>
+        <mj-image padding="0" align="center" width="234px" src="./images/WhiteNetgearBusiness.png"/>
         <mj-text padding="0" align="center" mj-class="cTW">Pour étendre votre réseau à distance du routeur depuis n'importe quel espace.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section mj-class="bgW">
       <mj-column>
-        <mj-image padding="0" align="center" src="./images/WAX202.jpg"/>
-        <mj-text padding="0" align="center">Point d'accès WiFi 6</mj-text>
-        <mj-text padding="0" align="center">Dual Band</mj-text>
-        <mj-text padding="0" align="center">AX1800 (WAX202)</mj-text>
-        <mj-text padding="0" align="center">99.99€ 84.99€</mj-text>
+        <mj-image padding="0" align="center" width="275px" src="./images/WAX202.jpg"/>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Point d'accès WiFi 6</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Dual Band</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">AX1800 (WAX202)</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">99.99€ 84.99€</mj-text>
         <mj-button>J'en profite</mj-button>
       </mj-column>
       <mj-column>
-        <mj-image padding="0" align="center" src="./images/WAX214.jpg"/>
-        <mj-text padding="0" align="center">Point d'accès WiFi 6</mj-text>
-        <mj-text padding="0" align="center">Dual Band</mj-text>
-        <mj-text padding="0" align="center">AX1800 (WAX214)</mj-text>
-        <mj-text padding="0" align="center">119.99€ 101.99€</mj-text>
+        <mj-image padding="0" align="center" width="275px" src="./images/WAX214.jpg"/>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Point d'accès WiFi 6</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Dual Band</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">AX1800 (WAX214)</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">119.99€ 101.99€</mj-text>
         <mj-button>J'en profite</mj-button>
       </mj-column>
       <mj-column>
-        <mj-image padding="0" align="center" src="./images/WAX204.jpg"/>
-        <mj-text padding="0" align="center">Point d'accès WiFi 6</mj-text>
-        <mj-text padding="0" align="center">Dual Band</mj-text>
-        <mj-text padding="0" align="center">AX1800 (WAX204)</mj-text>
-        <mj-text padding="0" align="center">129.99€ 97.99€</mj-text>
+        <mj-image padding="0" align="center" width="275px" src="./images/WAX204.jpg"/>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Point d'accès WiFi 6</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Dual Band</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">AX1800 (WAX204)</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">129.99€ 97.99€</mj-text>
         <mj-button>J'en profite</mj-button>
       </mj-column>
     </mj-section>
     <mj-section mj-class="bgT1">
       <mj-column>
-        <mj-image src="./images/WhiteNetgearBusiness.png" alt=""/>
+        <mj-image padding="0" align="center" width="234px" src="./images/WhiteNetgearBusiness.png" alt=""/>
         <mj-text padding="0" align="center" mj-class="cTW">Pour alimenter vos périphériques via Ethernet</mj-text>
       </mj-column>
     </mj-section>
     <mj-section mj-class="bgW">
       <mj-column>
-        <mj-image padding="0" align="center" src="./images/GS305SP.jpg" alt=""/>
-        <mj-text padding="0" align="center">Switch Non Manageable</mj-text>
-        <mj-text padding="0" align="center">5 Ports Gigabit PoE+ (GS305P)</mj-text>
-        <mj-text padding="0" align="center">64.99€ 48.99€</mj-text>
+        <mj-image padding="0" align="center" width="275px" src="./images/GS305SP.jpg" alt=""/>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Switch Non Manageable</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">5 Ports Gigabit PoE+ (GS305P)</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">64.99€ 48.99€</mj-text>
         <mj-button>J'en profite</mj-button>
       </mj-column>
       <mj-column>
-        <mj-image padding="0" align="center" src="./images/GS305.jpg" alt=""/>
-        <mj-text padding="0" align="center">Switch Non Manageable</mj-text>
-        <mj-text padding="0" align="center">5 Ports Gigabit (GS305)</mj-text>
-        <mj-text padding="0" align="center">19.99€ 16.99€</mj-text>
+        <mj-image padding="0" align="center" width="275px" src="./images/GS305.jpg" alt=""/>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Switch Non Manageable</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">5 Ports Gigabit (GS305)</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">19.99€ 16.99€</mj-text>
         <mj-button>J'en profite</mj-button>
       </mj-column>
     </mj-section>
