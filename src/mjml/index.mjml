@@ -15,7 +15,7 @@
     <mj-attributes>
       <mj-all font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans serif"/>
       <mj-class name="T32-300" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="32px" line-height="50px" font-weight="300"/>
-      <mj-class name="T30-300" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="30px" line-height="50px" font-weight="300"/>
+      <mj-class name="T25-300" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="25px" line-height="40px" font-weight="300"/>
       <mj-class name="T30-500" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="30px" line-height="40px" font-weight="500"/>
       <mj-class name="T26-500" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="26px" line-height="35px" font-weight="500"/>
       <mj-class name="T17-500" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="17px" line-height="25px" font-weight="500"/>
@@ -45,7 +45,7 @@
     </mj-section>
     <mj-section mj-class="bgT1">
       <mj-column>
-        <mj-text padding="0" align="center" mj-class="cTW">Des prix promos pour célébrer le retour au travail</mj-text>
+        <mj-text padding="0" align="center" mj-class="T32-300 cTW">Des prix promos pour célébrer le retour au travail</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
@@ -55,7 +55,7 @@
     </mj-section>
     <mj-section mj-class="bgW">
       <mj-column>
-        <mj-text padding="0" align="center">Restez productif avec Netgear</mj-text>
+        <mj-text padding="0" align="center" mj-class="T26-500 cT1">Restez productif avec <strong style="text-transform:uppercase">Netgear</strong></mj-text>
         <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Nos produits garantissent des connexions à des vitesses hauts débits et sécurisées qui vous permettent de rester productif dans toutes les situations.</mj-text>
         <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Que vous soyez en conférence téléphonique, en train d'envoyer des e-mails ou de télécharger des fichiers volumineux, vous restez connecté à un WiFi stable et performant.</mj-text>
         <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px"><strong>Et pour célébrer le retour au travail, nous vous proposons des prix exceptionnels sur une sélection de produits</strong>.</mj-text>
@@ -64,7 +64,7 @@
     <mj-section mj-class="bgB">
       <mj-column>
         <mj-image padding="0" align="center" width="234px" src="./images/orbiPro.png"/>
-        <mj-text padding="0" align="center" mj-class="cTW">Reprenez votre activité professionnelle avec un WIFI ultra-rapide pour votre TPE ou télétravail.</mj-text>
+        <mj-text padding="0" align="center" mj-class="T25-300 cTW">Reprenez votre activité professionnelle avec un WIFI ultra-rapide pour votre TPE ou télétravail.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section mj-class="bgW">
@@ -72,21 +72,21 @@
         <mj-image padding="0" align="center" width="275px" src="./images/SXK30.jpg"/>
         <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Système Mesh Orbi Pro WiFi 6</mj-text>
         <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px"><strong>AX1800</strong> (SXK30) Jusqu'à <strong>250m <sup>2</sup></strong></mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">299.99€ 224.99€</mj-text>
-        <mj-button>J'en profite</mj-button>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px"><span style="color:#ff0000;text-decoration-line:line-through;">299.99€</span> <strong style="color:#00a3de;">224.99€</strong></mj-text>
+        <mj-button mj-class="bgB">J'en profite</mj-button>
       </mj-column>
       <mj-column>
         <mj-image padding="0" align="center" width="275px" src="./images/SXK30B3.jpg"/>
         <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Système Mesh Orbi Pro WiFi 6</mj-text>
         <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px"><strong>AX1800</strong> (SXK30B3) Jusqu'à <strong>375m <sup>2</sup></strong></mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">399.99€ 299.99€</mj-text>
-        <mj-button>J'en profite</mj-button>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px"><span style="color:#ff0000;text-decoration-line:line-through;">399.99€</span> <strong style="color:#00a3de;">299.99€</strong></mj-text>
+        <mj-button mj-class="bgB">J'en profite</mj-button>
       </mj-column>
     </mj-section>
     <mj-section mj-class="bgT1">
       <mj-column>
         <mj-image padding="0" align="center" width="234px" src="./images/WhiteNetgearBusiness.png"/>
-        <mj-text padding="0" align="center" mj-class="cTW">Pour étendre votre réseau à distance du routeur depuis n'importe quel espace.</mj-text>
+        <mj-text padding="0" align="center" mj-class="T25-300 cTW">Pour étendre votre réseau à distance du routeur depuis n'importe quel espace.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section mj-class="bgW">
@@ -95,7 +95,7 @@
         <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Point d'accès WiFi 6</mj-text>
         <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Dual Band</mj-text>
         <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">AX1800 (WAX202)</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">99.99€ 84.99€</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px"><span style="color:#ff0000;text-decoration-line:line-through;">99.99€</span> <strong style="color:#00a3de;">84.99€</strong></mj-text>
         <mj-button>J'en profite</mj-button>
       </mj-column>
       <mj-column>
@@ -103,7 +103,7 @@
         <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Point d'accès WiFi 6</mj-text>
         <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Dual Band</mj-text>
         <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">AX1800 (WAX214)</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">119.99€ 101.99€</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px"><span style="color:#ff0000;text-decoration-line:line-through;">119.99€</span> <strong style="color:#00a3de;">101.99€</strong></mj-text>
         <mj-button>J'en profite</mj-button>
       </mj-column>
       <mj-column>
@@ -111,14 +111,14 @@
         <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Point d'accès WiFi 6</mj-text>
         <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Dual Band</mj-text>
         <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">AX1800 (WAX204)</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">129.99€ 97.99€</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px"><span style="color:#ff0000;text-decoration-line:line-through;">129.99€</span> <strong style="color:#00a3de;">97.99€</strong></mj-text>
         <mj-button>J'en profite</mj-button>
       </mj-column>
     </mj-section>
     <mj-section mj-class="bgT1">
       <mj-column>
         <mj-image padding="0" align="center" width="234px" src="./images/WhiteNetgearBusiness.png" alt=""/>
-        <mj-text padding="0" align="center" mj-class="cTW">Pour alimenter vos périphériques via Ethernet</mj-text>
+        <mj-text padding="0" align="center" mj-class="T25-300 cTW">Pour alimenter vos périphériques via Ethernet</mj-text>
       </mj-column>
     </mj-section>
     <mj-section mj-class="bgW">
@@ -126,20 +126,20 @@
         <mj-image padding="0" align="center" width="275px" src="./images/GS305SP.jpg" alt=""/>
         <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Switch Non Manageable</mj-text>
         <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">5 Ports Gigabit <strong>PoE+</strong> (GS305P)</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">64.99€ 48.99€</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px"><span style="color:#ff0000;text-decoration-line:line-through;">64.99€</span> <strong style="color:#00a3de;">48.99€</strong></mj-text>
         <mj-button>J'en profite</mj-button>
       </mj-column>
       <mj-column>
         <mj-image padding="0" align="center" width="275px" src="./images/GS305.jpg" alt=""/>
         <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Switch Non Manageable</mj-text>
         <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">5 Ports Gigabit (GS305)</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">19.99€ 16.99€</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px"><span style="color:#ff0000;text-decoration-line:line-through;">19.99€</span> <strong style="color:#00a3de;">16.99€</strong></mj-text>
         <mj-button>J'en profite</mj-button>
       </mj-column>
     </mj-section>
     <mj-section mj-class="bgT1">
       <mj-column>
-        <mj-text padding="0" align="center" mj-class="cTW">... et bien plus encore sur le store NETGEAR</mj-text>
+        <mj-text padding="0" align="center" mj-class="T30-500 cTW">... et bien plus encore sur le store NETGEAR</mj-text>
         <mj-button mj-class="bgW cT1">Découvrir</mj-button>
       </mj-column>
     </mj-section>
