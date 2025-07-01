@@ -145,13 +145,13 @@
     </mj-section>
     <mj-section mj-class="bgW">
       <mj-column>
-        <mj-image padding="0" src="./images/blackNetgear.png"/>
+        <mj-image padding="0" width="140px" src="./images/blackNetgear.png" alt=""/>
       </mj-column>
       <mj-column>
         <mj-spacer height="20px"></mj-spacer>
       </mj-column>
       <mj-column>
-        <mj-social padding="0" mode="horizontal">
+        <mj-social padding="0" icon-size="35px" mode="horizontal">
           <mj-social-element src="./images/facebookIcon.png" alt="" href="#"></mj-social-element>
           <mj-social-element src="./images/twitterIcon.png" alt="" href="#"></mj-social-element>
           <mj-social-element src="./images/instagramIcon.png" alt="" href="#"></mj-social-element>
@@ -161,13 +161,13 @@
     </mj-section>
     <mj-section mj-class="bgW">
       <mj-column>
-        <mj-text padding="0" align="left">Vous recevez cet e-mail car vous avez choisi de recevoir des communications NETGEAR. Si vous ne souhaitez plus recevoir ces communications, vous pouvez vous désabonner</mj-text>
-        <mj-text padding="0" align="left">Mettre à jour mon profil</mj-text>
-        <mj-text padding="0" align="left">Cet emailing a été envoyé par : %%Member_Busname%%</mj-text>
-        <mj-text padding="0" align="left">%%Member_Addr%% %%Member_City%%, %%Member_State%%, %%Member_PostalCode%%, %%Member_Country%%</mj-text>
-        <mj-text padding="0" align="left">NETGEAR France SAS, 2 rue de Marly, 78150 Le Chesnay</mj-text>
-        <mj-text padding="0" align="left">Pour recevoir nos e-mails, ajoutez l'adresse emarketing@e.netgear.com à votre carnet d'adresses.</mj-text>
-        <mj-text padding="0" align="left">Orbi et le logo NETGEAR sont des marques commerciales et/ou des marques déposées de NETGEAR, Inc. et/ou de ses filiales aux Etats-Unis et/ou dans d'autres pays. Les autres marques sont ici mentionnées à des fins d'identification uniquement et peuvent être des marques commerciales appartenant à leurs détenteurs respectifs. Les informations sont sujettes à changement sans préavis. ©2021 NETGEAR. Tous droits réservés.</mj-text>
+        <mj-text padding="0" align="left" mj-class="T12-400 cT1">Vous recevez cet e-mail car vous avez choisi de recevoir des communications NETGEAR. Si vous ne souhaitez plus recevoir ces communications, vous pouvez vous <a style="color:#2c262d;" href="#">désabonner</a></mj-text>
+        <mj-text padding="0" align="left" mj-class="T12-400 cT1"><a style="color:#2c262d;" href="#">Mettre à jour mon profil</a></mj-text>
+        <mj-text padding="0" align="left" mj-class="T12-400 cT1">Cet emailing a été envoyé par : <strong>%%Member_Busname%%</strong></mj-text>
+        <mj-text padding="0" align="left" mj-class="T12-400 cT1">%%Member_Addr%% %%Member_City%%, %%Member_State%%, %%Member_PostalCode%%, %%Member_Country%%</mj-text>
+        <mj-text padding="0" align="left" mj-class="T12-400 cT1">NETGEAR France SAS, 2 rue de Marly, 78150 Le Chesnay</mj-text>
+        <mj-text padding="0" align="left" mj-class="T12-400 cT1">Pour recevoir nos e-mails, ajoutez l'adresse <a style="color:#2c262d;" href="mailto:emarketing@e.netgear.com">emarketing@e.netgear.com</a> à votre carnet d'adresses.</mj-text>
+        <mj-text padding="0" align="left" mj-class="T12-400 cT1">Orbi et le logo NETGEAR sont des marques commerciales et/ou des marques déposées de NETGEAR, Inc. et/ou de ses filiales aux Etats-Unis et/ou dans d'autres pays. Les autres marques sont ici mentionnées à des fins d'identification uniquement et peuvent être des marques commerciales appartenant à leurs détenteurs respectifs. Les informations sont sujettes à changement sans préavis. ©2021 NETGEAR. Tous droits réservés.</mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
