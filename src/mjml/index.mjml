@@ -43,28 +43,29 @@
         </mj-column>
       </mj-group>
     </mj-section>
-    <mj-section mj-class="bgT1">
+    <mj-section mj-class="bgT1" padding="25px 35px">
       <mj-column>
-        <mj-text padding="0" align="center" mj-class="T32-300 cTW">Des prix promos pour célébrer le retour au travail</mj-text>
+        <mj-text padding="0" align="center" mj-class="T32-300 cTW" letter-spacing="1px">Des prix promos pour célébrer le retour au travail</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section>
+    <mj-section padding="0px">
       <mj-column>
         <mj-image padding="0" width="700px" src="./images/illustration.jpg"/>
       </mj-column>
     </mj-section>
-    <mj-section mj-class="bgW">
-      <mj-column>
-        <mj-text padding="0" align="center" mj-class="T26-500 cT1" letter-spacing="2px">Restez productif avec <strong style="text-transform:uppercase">Netgear</strong></mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Nos produits garantissent des connexions à des vitesses hauts débits et sécurisées qui vous permettent de rester productif dans toutes les situations.</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Que vous soyez en conférence téléphonique, en train d'envoyer des e-mails ou de télécharger des fichiers volumineux, vous restez connecté à un WiFi stable et performant.</mj-text>
+    <mj-section mj-class="bgW" padding="15px 25px">
+      <mj-column border="1px solid #CECECE" padding="10px">
+        <mj-text padding="0" padding-bottom="20px" align="center" mj-class="T26-500 cT1" letter-spacing="1px">Restez productif avec <strong style="text-transform:uppercase">Netgear</strong></mj-text>
+        <mj-text padding="0" padding-bottom="25px" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Nos produits garantissent des connexions à des vitesses hauts débits et sécurisées qui vous permettent de rester productif dans toutes les situations.</mj-text>
+        <mj-text padding="0" padding-bottom="25px" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Que vous soyez en conférence téléphonique, en train d'envoyer des e-mails ou de télécharger des fichiers volumineux, vous restez connecté à un WiFi stable et performant.</mj-text>
         <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px"><strong>Et pour célébrer le retour au travail, nous vous proposons des prix exceptionnels sur une sélection de produits</strong>.</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section mj-class="bgB">
+    <mj-section mj-class="bgB" padding="10px 50px">
       <mj-column>
         <mj-image padding="0" align="center" width="234px" src="./images/orbiPro.png"/>
-        <mj-text padding="0" align="center" mj-class="T25-300 cTW">Reprenez votre activité professionnelle avec un WIFI ultra-rapide pour votre TPE ou télétravail.</mj-text>
+        <mj-spacer height="20px"></mj-spacer>
+        <mj-text padding="0" align="center" mj-class="T25-300 cTW" letter-spacing="2px">Reprenez votre activité professionnelle avec un WIFI ultra-rapide pour votre TPE ou télétravail.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section mj-class="bgW" padding="0px" padding-bottom="20px">
